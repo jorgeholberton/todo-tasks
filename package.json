@@ -1,0 +1,14 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "description": "Aplicación para crear tareas usando nodeJS, Express, MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J_Londono",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
